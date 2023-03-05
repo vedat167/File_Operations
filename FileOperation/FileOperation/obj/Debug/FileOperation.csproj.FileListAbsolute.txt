@@ -1,0 +1,11 @@
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\bin\Debug\FileOperation.exe.config
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\bin\Debug\FileOperation.exe
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\bin\Debug\FileOperation.pdb
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.csproj.AssemblyReference.cache
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.Form1.resources
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.Properties.Resources.resources
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.csproj.GenerateResource.cache
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.csproj.CoreCompileInputs.cache
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.exe
+C:\Users\vedat_new\Desktop\YAZILIM EĞİTİMLERİ\C# Dersleri\FileOperation\FileOperation\obj\Debug\FileOperation.pdb
